@@ -1,0 +1,69 @@
+body{
+    background: url("../images/bag2.webp");
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
+nav{
+    width: 100%;
+    height: 100px;
+}
+.logo{
+    width: 60px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+
+ul{
+    list-style: none;
+    float: right;
+}
+li{
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+    margin-right: 30px;
+    font-weight: 1000;
+}
+a{
+    float: left;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+h3{
+    font-size: 30px;
+    color: black;
+    margin: 400px;
+    margin-left: 800px;
+    
+
+}
+
+.container{
+    width: 300px;
+    height: 400px;
+    border: 0px solid gray;
+    margin-left: 1200px;
+    background: url("../images/benifits.webp");
+    
+    background-size: cover;
+    border-radius: 10px;
+   
+}
+
+.steps{
+    width: 700px;
+    height: 400px;
+    border-radius: 110px;
+    margin: 100px 20px 10px 700px;
+    
+
+}
